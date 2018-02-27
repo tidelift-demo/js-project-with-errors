@@ -1,4 +1,6 @@
 {
+  "name": "js-project-with-errors",
+  "license": "StandardML-NJ",
   "dependencies": {
     "browseris": "^1.1.1",
     "centurion": "^0.0.5",
