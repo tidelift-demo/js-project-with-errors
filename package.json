@@ -1,6 +1,6 @@
 {
   "name": "js-project-with-errors",
-  "license": "Artistic-2.0",
+  "license": "Artistic-1.0",
   "dependencies": {
     "browseris": "^1.1.1",
     "centurion": "^0.0.5",
